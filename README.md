@@ -1,0 +1,2 @@
+# atom-linkage-test
+test
